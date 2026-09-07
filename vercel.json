@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/ic_apps.jpg" }
+    { "source": "/(.*)", "destination": "/ic_app.jpg" }
   ]
 }
